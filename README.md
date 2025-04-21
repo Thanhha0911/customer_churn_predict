@@ -14,11 +14,11 @@
 
 ***Result:*** 
 - Logistic Regression return the accuracy of 80%
-From the model, we can find that the key factors might affected to the customer's churn rate:
+<BR> From the model, we can find that the key factors might affected to the customer's churn rate:
 
-Contract Type: Month to Month
-Internet Service: Fiber Optic
-Payment Method: Electronic Check
-Online Security: No
-Tech support: No
-We can use the model to predict churn rate with the future data to estimate the churn rate and reflect to our strategy
+<BR>Contract Type: Month to Month
+<BR>Internet Service: Fiber Optic
+<BR>Payment Method: Electronic Check
+<BR>Online Security: No
+<BR>Tech support: No
+<BR>We can use the model to predict churn rate with the future data to estimate the churn rate and reflect to our strategy

@@ -83,6 +83,6 @@ Final model deployed via **Gradio** (`app.py`).
 
 Users upload a pre-processed CSV. The app returns churn predictions along with customer IDs for marketing action.
 - **Demo Video**
-![demo_video.mp4](/media/demo_video.mp4)
+[![Watch the demo video](/media/thumbnail.png)](/media/demo_video.mp4)
 - **Pipeline of Web App**
-![customer_churn_prediction_webapp_pipeline.png](/media/customer_churn_prediction_webapp_pipeline.pngcustomer_churn_prediction_webapp_pipeline.png)
+![customer_churn_prediction_webapp_pipeline](/media/customer_churn_prediction_webapp.png)

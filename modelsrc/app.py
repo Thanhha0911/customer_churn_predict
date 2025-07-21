@@ -11,7 +11,7 @@ from sklearn.impute import SimpleImputer
 # Load model
 
 model = joblib.load(
-    "C:/Users/v121256/allproject/customer_churn_predict/modelsrc/logistic_model.pkl"
+    "/customer_churn_predict/modelsrc/logistic_model.pkl"
 )
 
 

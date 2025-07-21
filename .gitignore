@@ -1,0 +1,24 @@
+# Ignore everything by default
+*
+# But allow these specific files/folders to be tracked
+!.gitignore
+!README.md
+!data/
+!data/**
+!modelsrc/
+!modelsrc/**
+!notebooks/
+!notebooks/**
+!media/
+!media/*
+!Pipfile
+!Pipfile.lock
+
+# Ignore virtual environment
+.venv/
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
